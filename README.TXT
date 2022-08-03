@@ -1,9 +1,9 @@
 
 
-# prerequisites : 
+## prerequisites : 
     1. nodejs version 16.14.0 or heigher 
 
-# to run the task : 
+## to run the task : 
     1. clone this repository "https://github.com/minaadel6600/Exercise_2.git"
     2. run command (npm install)
     3. put your data into file (input_file_name.csv) in the root folder for now it contains sample data which exist
