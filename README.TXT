@@ -1,10 +1,10 @@
 
 
-## prerequisites : 
+# prerequisites : 
 
     1. nodejs version 16.14.0 or heigher 
 
-## to run the task : 
+# to run the task : 
 
     1. clone this repository "https://github.com/minaadel6600/Exercise_2.git"
     2. run command (npm install)
